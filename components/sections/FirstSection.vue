@@ -120,7 +120,7 @@ export default {
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 782px) {
   .title {
     font-size: 60px;
   }
@@ -147,6 +147,7 @@ export default {
 @media only screen and (max-width: 480px) {
   .title {
     font-size: 40px;
+    line-height: 48px;
   }
   .subtitle {
     font-size: 16px;
